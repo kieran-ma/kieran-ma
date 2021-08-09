@@ -1,2 +1,3 @@
-- 👋 Hello, I'm Kieran Arney.
-- 👀 I’m interested in video games and programming
+- Hello, I'm Kieran Arney.
+- I’m interested in video games and programming
+- I don't have a lot of experience right now, so that's all I've got for now.
