@@ -1,0 +1,2 @@
+- 👋 Hello, I'm Kieran Arney.
+- 👀 I’m interested in video games and programming
